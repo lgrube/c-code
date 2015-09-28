@@ -5,3 +5,4 @@ int main() {
   printf("that was a joke\n");
 }
 //everybody
+//testing atom with push function
