@@ -6,3 +6,4 @@ int main() {
 }
 //everybody
 //testing atom with push function
+//still working on getting push to work but have pull
